@@ -1,0 +1,21 @@
+.boxs{ 
+    border: 1px solid black;
+    flex-grow: 1;
+
+    
+}
+.lines{
+    display: flex;
+    flex-grow: 1;
+    
+}
+#gridContainer{
+    width: 400px;
+    height: 400px;
+    border: 1px solid red;
+     display: flex;
+    flex-direction: column; 
+    
+    
+    
+}
